@@ -1,9 +1,10 @@
 # dayplan
-A simple command line tool for daily planning
 
-![NPM Version badge](https://img.shields.io/npm/v/dayplan)
+> A simple command line tool for daily planning
 
-![NPM Bundle size](https://img.shields.io/bundlephobia/minzip/dayplan)
+<img style="display: inline;" alt="NPM Version badge" src="https://img.shields.io/npm/v/dayplan" />
+
+<img style="display: inline;" alt="NPM Bundle size" src="https://img.shields.io/bundlephobia/minzip/dayplan" />
 
 ## Usage
 

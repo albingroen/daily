@@ -6,6 +6,8 @@
 
 <img style="display: inline;" alt="NPM Bundle size" src="https://img.shields.io/bundlephobia/minzip/dayplan" />
 
+[Demo](https://youtu.be/WlWZTTfzArs)
+
 ## Usage
 
 Install

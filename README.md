@@ -15,7 +15,7 @@ Show plan
 
     $ dayplan
 
-Opens your editor specifified in `$EDITOR`
+Opens your editor specified in `$EDITOR`
 
 ## Where do my plans go?
 The plans end up in `$HOME/dayplan` like this

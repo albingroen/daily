@@ -7,6 +7,11 @@
     "dayplan": "./bin/index.js"
   },
   "repository": "https://github.com/albingroen/dayplan.git",
+  "keywords": [
+    "productivity",
+    "journal",
+    "planning"
+  ],
   "author": "Albin Groen <albin.groen@gmail.com>",
   "license": "MIT",
   "dependencies": {

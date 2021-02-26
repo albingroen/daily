@@ -1,0 +1,15 @@
+{
+  "name": "dayplan",
+  "description": "A simple command line tool for daily planning",
+  "version": "1.0.0",
+  "main": "./lib/index.js",
+  "bin": {
+    "dayplan": "./bin/index.js"
+  },
+  "repository": "https://github.com/albingroen/dayplan.git",
+  "author": "Albin Groen <albin.groen@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "moment": "^2.29.1"
+  }
+}

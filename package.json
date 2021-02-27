@@ -7,6 +7,7 @@
     "dayplan": "./bin/index.js"
   },
   "repository": "https://github.com/albingroen/dayplan.git",
+  "homepage": "https://albingroen.github.io/dayplan-site",
   "keywords": [
     "productivity",
     "journal",

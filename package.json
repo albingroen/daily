@@ -15,7 +15,5 @@
   ],
   "author": "Albin Groen <albin.groen@gmail.com>",
   "license": "MIT",
-  "dependencies": {
-    "moment": "^2.29.1"
-  }
+  "dependencies": {}
 }

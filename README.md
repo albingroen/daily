@@ -4,7 +4,7 @@
 
 <img style="display: inline;" alt="NPM Version badge" src="https://img.shields.io/npm/v/dayplan" />
 
-<img style="display: inline;" alt="NPM Bundle size" src="https://img.shields.io/bundlephobia/minzip/dayplan" />
+<img style="display: inline;" alt="NPM Bundle size" src="https://img.shields.io/bundlephobia/minzip/dayplan/1.0.6" />
 
 [Demo](https://youtu.be/WlWZTTfzArs)
 

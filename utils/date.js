@@ -30,7 +30,7 @@ const formatDateForName = (dateString) => {
 
   const year = date.getFullYear();
   const month = date.getMonth();
-  const day = date.getDate();
+  const day = date.getDay();
 
   return [
     year,

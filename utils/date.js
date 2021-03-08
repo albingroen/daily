@@ -26,28 +26,29 @@ const DAY_NAMES = [
 
 // Functions
 const formatDateForName = (dateString) => {
-  const date = new Date(dateString);
+  const d = new Date(dateString);
 
-  const year = date.getFullYear();
-  const month = date.getMonth();
-  const day = date.getDay();
+  const year = d.getFullYear();
+  const month = d.getMonth();
+  const date = d.getDate();
 
   return [
     year,
     month < 10 ? `0${month + 1}` : month + 1,
-    day < 10 ? `0${day}` : day,
+    date < 10 ? `0${date}` : date,
   ].join("-");
 };
 
 const formatDateForTitle = (dateString) => {
-  const date = new Date(dateString);
+  const d = new Date(dateString);
 
-  const year = date.getFullYear();
-  const month = date.getMonth();
-  const day = date.getDate();
+  const year = d.getFullYear();
+  const month = d.getMonth();
+  const date = d.getDate();
+  const day = d.getDay();
 
   return `${DAY_NAMES[day - 1]} ${MONTH_NAMES[month]} ${
-    day < 10 ? `0${day}` : day
+    date < 10 ? `0${date}` : date
   }, ${year}`;
 };
 
